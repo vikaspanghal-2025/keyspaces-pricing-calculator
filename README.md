@@ -1,4 +1,4 @@
-# Amazon Keyspaces Pricing Calculator
+# Amazon Keyspaces Pricing Calculator 🚀
 
 Interactive pricing calculator for Amazon Keyspaces (for Apache Cassandra) that helps estimate costs based on read/write throughput, storage, and capacity modes.
 
